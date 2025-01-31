@@ -17,7 +17,7 @@ public class Main {
         frame.setIconImage(image.getImage()); // Change icon of this
 
         label.setIcon(image);
-        label.setText("GoodBye!");
+        label.setText("GoodBye!");//
 
         label.setHorizontalTextPosition(JLabel.CENTER); // Text alignment
         label.setVerticalTextPosition(JLabel.CENTER);
