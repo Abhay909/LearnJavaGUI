@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        MyFrame frame = new MyFrame();
+        MyFrame frame = new MyFrame();//
         JLabel label = new JLabel("Hello World");
         frame.add(label);
 
