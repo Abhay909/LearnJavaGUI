@@ -10,7 +10,7 @@ public class main {
 
         JButtonApp app = new JButtonApp();
         app.setVisible(true);
-
+//
 //        JFrame window = new JFrame();
 //
 //        window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
