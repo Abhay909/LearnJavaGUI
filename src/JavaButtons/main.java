@@ -9,7 +9,7 @@ public class main {
     public static void main(String[] args) {
 
         JButtonApp app = new JButtonApp();
-        app.setVisible(true);
+        app.setVisible(true); // Good habit of setting it to true to make sure everything appears
 //
 //        JFrame window = new JFrame();
 //
