@@ -14,6 +14,7 @@ public class JButtonApp extends JFrame implements ActionListener{
 
         // Inherit all traits of JFrame
         super("Window");
+        
 
         // Set JFrame
         setSize(500, 500);
@@ -47,6 +48,10 @@ public class JButtonApp extends JFrame implements ActionListener{
         button.setForeground(new Color(255, 255, 255));
 
         button.setBackground(Color.BLACK);
+
+        button.setOpaque(true);
+        button.setBorderPainted(false);
+
 
 
 

@@ -10,6 +10,7 @@ public class main {
 
         JButtonApp app = new JButtonApp();
         app.setVisible(true); // Good habit of setting it to true to make sure everything appears
+        
 //
 //        JFrame window = new JFrame();
 //
