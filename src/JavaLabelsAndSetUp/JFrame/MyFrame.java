@@ -1,4 +1,4 @@
-package JFrame;
+package JavaLabelsAndSetUp.JFrame;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,10 +9,10 @@ public class MyFrame extends JFrame {
 
         
 
-        // You can either put a in front of everything or call a JFrame super class
+        // You can either put a in front of everything or call a JavaLabelsAndSetUp.JFrame super class
         super("Java GUI");
 
-        setSize(500, 500); // Sets size
+        setSize(750, 750); // Sets size
         setVisible(true); // sets the frane visable
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Make sure this closes on x button
         setTitle("Welcome to Java GUI"); // Title of a window
